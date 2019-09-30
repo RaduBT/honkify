@@ -1,5 +1,10 @@
 # Honkify
 
+
+Not ready yet. Do not install. 
+
+_________
+
 ## Chrome Extensions to replace instances of the words "Trending News" with "Honking News"
 
 Ths initial batch (and still most of the replacement text) comes from here:
