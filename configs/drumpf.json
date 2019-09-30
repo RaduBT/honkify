@@ -11,7 +11,7 @@
 		"short": {
             "match_class":"detrumpified",
 			"monikers": ["Drumpf"],
-			"find_regex": ["Trump(?!\\w)", "g"],
+			"find_regex": ["Trending(?!\\w)", "g"],
 			"randomize_mode": "daily"
 		}
 	},
